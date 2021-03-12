@@ -1,2 +1,2 @@
 # WooCommerce-For-Brazil
-Este plugin prepara o WooCommerce para o brasil
+Este plugin adiciona varias funcionalidades e configura o WooCommerce para funcionar perfeitamente no brasil.
